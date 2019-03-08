@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2019-01-23
+  price: 1
+  year: 1
+  car_model_id: 
+  site_id: 1
+  site_name: 1
+  region_id: 
+
+two:
+  date: 2019-01-23
+  price: 1
+  year: 1
+  car_model_id: 
+  site_id: 1
+  site_name: 1
+  region_id: 
